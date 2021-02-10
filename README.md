@@ -5,3 +5,5 @@
 3. build and run the server: `$ make run`
 4. open the website in a browser: <http://localhost:8080>
 5. try reloading a few times
+
+See <https://github.com/CrowCpp/crow/issues/104> for the actual issue.
